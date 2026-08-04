@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/shop-game.gif" width="720" alt="Autumn Coffee Shop">
+  <img src="./asset/shop-game.gif" width="720" alt="Autumn Coffee Shop">
 
 <br><br>
 
