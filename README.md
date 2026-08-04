@@ -1,131 +1,117 @@
 <div align="center">
 
-<br>
+<img src="./assets/banner.svg" width="100%" alt="Autumn Journal Banner">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=3500&pause=1200&color=B5651D&center=true&vCenter=true&width=560&height=70&lines=Syifa+Ardiansyah" alt="Typing SVG" />
-
-<p>
-  <sub>Backend Developer&nbsp; • &nbsp;Software Engineering Student</sub>
-</p>
-
-<sub><i>I enjoy building software that solves real problems.</i></sub>
-
-<br><br>
+<h1>Syifa Ardiansyah</h1>
+<h3>Backend Developer</h3>
+<p><i>Code. Learn. Repeat.</i></p>
 
 </div>
+
+<img src="./assets/divider.svg" width="100%">
+
+## 🍁 About
 
 <div align="center">
 
-━━━━━━━━━━━━━━━&nbsp;&nbsp;•&nbsp;&nbsp;━━━━━━━━━━━━━━━
+I'm a backend developer from Indonesia who enjoys quiet, deliberate work — the kind that feels more like tending a garden than chasing trends. I build things that are meant to last, learn a little every day, and treat every bug as a page worth reading twice.
 
 </div>
 
-<br>
+<img src="./assets/divider.svg" width="100%">
 
-## About
-
-<br>
-
-I'm a software engineering student focused on backend development —
-designing APIs, structuring databases, and writing code that stays
-readable as it grows. I care more about clarity and maintainability
-than clever shortcuts.
-
-<br>
+## 🌿 Tech Stack
 
 <div align="center">
 
-━━━━━━━━━━━━━━━&nbsp;&nbsp;•&nbsp;&nbsp;━━━━━━━━━━━━━━━
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,java,mysql,vscode&theme=light" alt="Tech Stack">
 
 </div>
 
-<br>
+<img src="./assets/divider.svg" width="100%">
 
-## Tech Stack
-
-<br>
+## 📂 Featured Project
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-4B3621?style=for-the-badge&logo=html5&logoColor=F5E9D9" />
-<img src="https://img.shields.io/badge/CSS3-4B3621?style=for-the-badge&logo=css3&logoColor=F5E9D9" />
-<img src="https://img.shields.io/badge/JavaScript-4B3621?style=for-the-badge&logo=javascript&logoColor=F5E9D9" />
-<img src="https://img.shields.io/badge/PHP-4B3621?style=for-the-badge&logo=php&logoColor=F5E9D9" />
+### 🍂 Quantis
 
-<br><br>
+*A project built with focus, patience, and clean architecture.*
 
-<img src="https://img.shields.io/badge/Laravel-8B5E3C?style=for-the-badge&logo=laravel&logoColor=F5E9D9" />
-<img src="https://img.shields.io/badge/MySQL-8B5E3C?style=for-the-badge&logo=mysql&logoColor=F5E9D9" />
-<img src="https://img.shields.io/badge/Git-8B5E3C?style=for-the-badge&logo=git&logoColor=F5E9D9" />
+**Tech Stack:** *(see repository for full details)*
 
-<br><br>
-
-<img src="https://img.shields.io/badge/GitHub-C0824C?style=for-the-badge&logo=github&logoColor=F5E9D9" />
-<img src="https://img.shields.io/badge/VS%20Code-C0824C?style=for-the-badge&logo=visualstudiocode&logoColor=F5E9D9" />
+<a href="https://github.com/Cip-s/Quantis">
+<img src="https://img.shields.io/badge/View%20Repository-A65E2E?style=for-the-badge&logo=github&logoColor=F5F1E8" alt="View Quantis Repository">
+</a>
 
 </div>
 
-<br>
+<img src="./assets/divider.svg" width="100%">
+
+## 🕯️ Cozy Corner
 
 <div align="center">
 
-━━━━━━━━━━━━━━━&nbsp;&nbsp;•&nbsp;&nbsp;━━━━━━━━━━━━━━━
+<img src="./assets/autumn.svg" width="70%" alt="Animated pixel art autumn cabin scene">
+
+<sub>A small window into a warmer afternoon.</sub>
 
 </div>
 
-<br>
+<img src="./assets/divider.svg" width="100%">
 
-## GitHub Statistics
-
-<br>
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=syifaardiansyah&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=B5651D&icon_color=B5651D&text_color=4B3621&ring_color=8B5E3C" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syifaardiansyah&hide_border=true&background=00000000&stroke=8B5E3C&ring=B5651D&fire=B5651D&currStreakLabel=4B3621&sideLabels=4B3621&currStreakNum=4B3621&sideNums=4B3621&dates=8B5E3C" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Cip-s&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=C97A40&icon_color=A65E2E&text_color=D7C4A3" alt="GitHub Stats" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cip-s&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=C97A40&text_color=D7C4A3" alt="Top Languages" width="38%">
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syifaardiansyah&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&title_color=B5651D&text_color=4B3621&langs_count=8" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cip-s&theme=gruvbox&hide_border=true&background=00000000&ring=A65E2E&fire=C97A40&currStreakLabel=D7C4A3" alt="GitHub Streak" width="60%">
 
 </div>
 
-<br>
+<img src="./assets/divider.svg" width="100%">
+
+## 📚 Currently Learning
 
 <div align="center">
 
-━━━━━━━━━━━━━━━&nbsp;&nbsp;•&nbsp;&nbsp;━━━━━━━━━━━━━━━
+☕ Deeper backend architecture &nbsp;•&nbsp; 🌿 Clean API design &nbsp;•&nbsp; 📖 Database performance tuning
 
 </div>
 
-<br>
+<img src="./assets/divider.svg" width="100%">
 
-## Current Focus
-
-<br>
+## ☕ Philosophy
 
 <div align="center">
 
-Backend Development&nbsp;&nbsp;·&nbsp;&nbsp;REST API&nbsp;&nbsp;·&nbsp;&nbsp;Laravel
-<br>
-Database Design&nbsp;&nbsp;·&nbsp;&nbsp;Clean Architecture
+> *"Good code, like good tea, cannot be rushed — only steeped, tasted, and returned to."*
 
 </div>
 
-<br>
+<img src="./assets/divider.svg" width="100%">
+
+## 📫 Contact
 
 <div align="center">
 
-━━━━━━━━━━━━━━━&nbsp;&nbsp;•&nbsp;&nbsp;━━━━━━━━━━━━━━━
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-A65E2E?style=for-the-badge&logo=instagram&logoColor=F5F1E8" alt="Instagram">
+</a>
+<a href="mailto:youremail@example.com">
+<img src="https://img.shields.io/badge/Email-6F4E37?style=for-the-badge&logo=gmail&logoColor=F5F1E8" alt="Email">
+</a>
 
 </div>
 
-<br>
+<img src="./assets/divider.svg" width="100%">
 
 <div align="center">
 
-<i>"The cleanest code, like a maple tree in autumn, knows exactly what to let go of."</i>
+🍁 *Thank you for stopping by — may your afternoon be slow and your coffee warm.* 🍁
+
+<sub>Syifa Ardiansyah · <a href="https://github.com/Cip-s">@Cip-s</a></sub>
 
 </div>
-
-<br>
