@@ -1,0 +1,101 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skyFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4E342E" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#4E342E" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="waveBack" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#A65E2E"/>
+      <stop offset="100%" stop-color="#6F4E37"/>
+    </linearGradient>
+
+    <linearGradient id="waveFront" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#C97A40"/>
+      <stop offset="100%" stop-color="#4E342E"/>
+    </linearGradient>
+
+    <path id="leafShape" d="M0,-8 C4,-6 6,-2 6,2 C6,6 3,8 0,10 C-3,8 -6,6 -6,2 C-6,-2 -4,-6 0,-8 Z"/>
+  </defs>
+
+  <!-- daun-daun jatuh, tiap daun jatuhnya sendiri-sendiri (path & timing beda) -->
+  <g fill="#C97A40" opacity="0.95">
+    <use href="#leafShape" fill="#A65E2E">
+      <animateMotion path="M120,-20 C160,40 60,90 130,150 C180,190 140,220 150,235" rotate="auto" dur="7s" begin="0s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="4s" additive="sum" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#leafShape" fill="#C97A40">
+      <animateMotion path="M300,-30 C260,50 350,80 300,140 C270,180 320,210 310,230" rotate="auto" dur="8.5s" begin="1.2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="5s" additive="sum" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#leafShape" fill="#8C5A34">
+      <animateMotion path="M480,-25 C520,30 440,70 490,130 C520,170 470,205 480,225" rotate="auto" dur="6.5s" begin="2.4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="3.6s" additive="sum" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#leafShape" fill="#A65E2E">
+      <animateMotion path="M650,-20 C610,45 690,85 640,145 C610,185 660,215 650,232" rotate="auto" dur="7.8s" begin="0.6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="4.4s" additive="sum" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#leafShape" fill="#C97A40">
+      <animateMotion path="M830,-30 C870,35 800,75 850,135 C880,175 830,205 840,228" rotate="auto" dur="9s" begin="3s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="5.2s" additive="sum" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#leafShape" fill="#8C5A34">
+      <animateMotion path="M1010,-25 C970,40 1050,80 1000,140 C970,180 1020,210 1010,230" rotate="auto" dur="7.2s" begin="1.8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="4s" additive="sum" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#leafShape" fill="#A65E2E">
+      <animateMotion path="M1150,-20 C1110,50 1180,90 1130,150 C1100,190 1150,220 1140,235" rotate="auto" dur="8s" begin="2.7s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="4.8s" additive="sum" repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <!-- gelombang lapisan belakang, bergerak pelan -->
+  <g>
+    <path fill="url(#waveBack)" opacity="0.55"
+      d="M0,250 C100,225 200,270 300,250 C400,230 500,275 600,250
+         C700,225 800,270 900,250 C1000,230 1100,275 1200,250
+         L1200,255 C1100,280 1000,235 900,255 C800,275 700,230 600,255
+         C500,280 400,235 300,255 C200,275 100,230 0,255 Z
+         M1200,250 C1300,225 1400,270 1500,250 C1600,230 1700,275 1800,250
+         C1900,225 2000,270 2100,250 C2200,230 2300,275 2400,250
+         L2400,255 C2300,280 2200,235 2100,255 C2000,275 1900,230 1800,255
+         C1700,280 1600,235 1500,255 C1400,275 1300,230 1200,255 Z"
+    >
+      <animateTransform attributeName="transform" type="translate" values="0,0;-1200,0" dur="14s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- gelombang lapisan depan, sedikit lebih cepat, ini yang membawa daun "hanyut" -->
+  <g>
+    <path fill="url(#waveFront)"
+      d="M0,270 C120,245 260,290 380,268 C480,250 560,290 680,270
+         C800,250 900,292 1020,270 C1120,252 1180,292 1200,270
+         L1200,300 L0,300 Z
+         M1200,270 C1320,245 1460,290 1580,268 C1680,250 1760,290 1880,270
+         C2000,250 2100,292 2220,270 C2320,252 2380,292 2400,270
+         L2400,300 L1200,300 Z"
+    >
+      <animateTransform attributeName="transform" type="translate" values="0,0;-1200,0" dur="9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- daun-daun kecil yang sudah "mengambang" ikut arus gelombang -->
+  <g fill="#F5F1E8" opacity="0.85">
+    <use href="#leafShape" transform="scale(0.7)" fill="#4E342E">
+      <animateTransform attributeName="transform" type="translate" values="150,268; -1050,268" dur="12s" begin="0s" repeatCount="indefinite"/>
+    </use>
+    <use href="#leafShape" transform="scale(0.6)" fill="#6F4E37">
+      <animateTransform attributeName="transform" type="translate" values="500,272; -700,272" dur="15s" begin="3s" repeatCount="indefinite"/>
+    </use>
+    <use href="#leafShape" transform="scale(0.8)" fill="#4E342E">
+      <animateTransform attributeName="transform" type="translate" values="900,266; -300,266" dur="13s" begin="6s" repeatCount="indefinite"/>
+    </use>
+  </g>
+</svg>
