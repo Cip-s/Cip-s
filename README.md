@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:2E1E12,50:6F4E37,100:A65E2E&height=200&section=header&text=SYIFA%20ARDIANSYAH&fontSize=40&fontColor=F5F1E8&fontAlignY=38&desc=Backend%20%26%20Mobile%20Developer&descSize=15&descAlignY=58&descColor=E8C39E&animation=fadeIn](https://i.pinimg.com/1200x/fe/f6/3f/fef63f1f0ab804a1d7c634329eb9b695.jpg)" width="100%" />
+<img src="https://i.pinimg.com/1200x/fe/f6/3f/fef63f1f0ab804a1d7c634329eb9b695.jpg" width="100%" />
 
 </div>
 
