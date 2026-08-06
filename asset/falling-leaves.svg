@@ -1,0 +1,76 @@
+<svg width="100%" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F5F1E8" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#F5F1E8" stop-opacity="0"/>
+    </linearGradient>
+
+    <g id="leaf1">
+      <path d="M0,-10 C6,-8 9,-2 9,4 C9,10 5,14 0,16 C-5,14 -9,10 -9,4 C-9,-2 -6,-8 0,-10 Z" fill="#A65E2E"/>
+      <line x1="0" y1="-10" x2="0" y2="16" stroke="#6F4E37" stroke-width="0.8"/>
+    </g>
+    <g id="leaf2">
+      <path d="M0,-9 C5,-7 8,-2 8,3 C8,9 4,13 0,15 C-4,13 -8,9 -8,3 C-8,-2 -5,-7 0,-9 Z" fill="#C97A40"/>
+      <line x1="0" y1="-9" x2="0" y2="15" stroke="#4E342E" stroke-width="0.8"/>
+    </g>
+    <g id="leaf3">
+      <path d="M0,-11 C7,-9 10,-3 10,4 C10,11 5,15 0,18 C-5,15 -10,11 -10,4 C-10,-3 -7,-9 0,-11 Z" fill="#D98E4A"/>
+      <line x1="0" y1="-11" x2="0" y2="18" stroke="#6F4E37" stroke-width="0.8"/>
+    </g>
+  </defs>
+
+  <rect width="1200" height="160" fill="url(#bgFade)"/>
+
+  <!-- baris daun jatuh, tiap grup punya start time & durasi beda biar acak -->
+  <g opacity="0.9">
+    <use href="#leaf1" x="60" y="0">
+      <animateTransform attributeName="transform" type="translate" values="0,-20; 0,180" dur="6s" begin="0s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" additive="sum" values="0 60 0; 25 60 0; -20 60 0; 0 60 0" dur="3s" begin="0s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#leaf2" x="160" y="0">
+      <animateTransform attributeName="transform" type="translate" values="0,-20; 0,180" dur="7.5s" begin="1s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" additive="sum" values="0 160 0; -30 160 0; 15 160 0; 0 160 0" dur="4s" begin="0.5s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#leaf3" x="280" y="0">
+      <animateTransform attributeName="transform" type="translate" values="0,-20; 0,180" dur="8.2s" begin="2.2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" additive="sum" values="0 280 0; 20 280 0; -25 280 0; 0 280 0" dur="3.5s" begin="1s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#leaf1" x="400" y="0">
+      <animateTransform attributeName="transform" type="translate" values="0,-20; 0,180" dur="6.8s" begin="0.4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" additive="sum" values="0 400 0; -18 400 0; 22 400 0; 0 400 0" dur="3.2s" begin="0.2s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#leaf2" x="520" y="0">
+      <animateTransform attributeName="transform" type="translate" values="0,-20; 0,180" dur="7s" begin="3s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" additive="sum" values="0 520 0; 28 520 0; -12 520 0; 0 520 0" dur="4.5s" begin="1.5s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#leaf3" x="640" y="0">
+      <animateTransform attributeName="transform" type="translate" values="0,-20; 0,180" dur="6.4s" begin="1.8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" additive="sum" values="0 640 0; -22 640 0; 18 640 0; 0 640 0" dur="3.8s" begin="0.8s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#leaf1" x="760" y="0">
+      <animateTransform attributeName="transform" type="translate" values="0,-20; 0,180" dur="7.8s" begin="0.9s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" additive="sum" values="0 760 0; 24 760 0; -20 760 0; 0 760 0" dur="4.1s" begin="0.3s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#leaf2" x="880" y="0">
+      <animateTransform attributeName="transform" type="translate" values="0,-20; 0,180" dur="6.6s" begin="2.6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" additive="sum" values="0 880 0; -26 880 0; 16 880 0; 0 880 0" dur="3.4s" begin="1.2s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#leaf3" x="1000" y="0">
+      <animateTransform attributeName="transform" type="translate" values="0,-20; 0,180" dur="7.3s" begin="0.2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" additive="sum" values="0 1000 0; 20 1000 0; -24 1000 0; 0 1000 0" dur="3.9s" begin="0.6s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#leaf1" x="1120" y="0">
+      <animateTransform attributeName="transform" type="translate" values="0,-20; 0,180" dur="6.9s" begin="1.4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" additive="sum" values="0 1120 0; -19 1120 0; 21 1120 0; 0 1120 0" dur="3.6s" begin="0.9s" repeatCount="indefinite"/>
+    </use>
+  </g>
+</svg>
