@@ -59,8 +59,6 @@ Saya suka ngoding hal-hal yang jalan di belakang layar — API yang gak gampang 
 
 <br>
 
-> Mau ada "contribution snake" (ular yang gerak makan kotak commit) kayak yang di profile Artdi? Itu butuh setup GitHub Action di repo `<username>/<username>` — bilang aja, gue bikinin file workflow-nya sekalian.
-
 <br>
 
 ## Contact
