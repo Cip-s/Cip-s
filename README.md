@@ -1,53 +1,44 @@
 <div align="center">
 
-<img src="./asset/shop-game.gif" width="420" alt="pixel hero" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1E12,50:6F4E37,100:A65E2E&height=200&section=header&text=SYIFA%20ARDIANSYAH&fontSize=40&fontColor=F5F1E8&fontAlignY=38&desc=Backend%20%26%20Mobile%20Developer&descSize=15&descAlignY=58&descColor=E8C39E&animation=fadeIn" width="100%" />
 
-# Hi, I'm Syifa 👋
-
-**Backend & Mobile Developer** based in Indonesia
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=900&color=A65E2E&center=true&vCenter=true&width=560&height=30&lines=Ngoding+backend+sambil+nunggu+kopi+dingin;Belajar+Express%2C+Next.js%2C+dan+React+Native;Autumn+person+in+a+summer+codebase)](https://git.io/typing-svg)
 
 </div>
 
-<br>
-
-Saya suka ngoding hal-hal yang jalan di belakang layar — API yang gak gampang jebol pas dipakein banyak orang, sama aplikasi mobile yang enak dipegang. Belajar React Native sambil ngoprek Express, biasanya sambil ditemenin kopi yang keburu dingin karena kelamaan mikirin bug.
-
-Lagi fokus benerin fondasi: clean architecture, auth yang aman, dan query database yang gak bikin server ngos-ngosan.
+<img src="./asset/falling-leaves.svg" width="100%" height="120" alt="falling leaves" />
 
 <br>
 
-## Stack yang sering dipakai
+## Tentang
 
-<table>
-<tr>
-<td valign="top" width="33%">
+Saya suka ngoding hal-hal yang jalan di belakang layar — API yang gak gampang jebol pas dipakein banyak orang, sama aplikasi mobile yang enak dipegang. Lagi fokus benerin fondasi: clean architecture, auth yang aman, dan query database yang gak bikin server ngos-ngosan. Biasanya ngoding ditemenin kopi yang keburu dingin karena kelamaan mikirin bug.
 
-**Bahasa**
-- Java
-- JavaScript / TypeScript
-- HTML
+<br>
 
-</td>
-<td valign="top" width="33%">
+## Stack
 
-**Framework & Tools**
-- Node.js, Express
-- Next.js
-- React & React Native, Expo
-- TailwindCSS
-- JWT
+<div align="center">
 
-</td>
-<td valign="top" width="33%">
+![Java](https://img.shields.io/badge/Java-4E342E?style=for-the-badge&logo=openjdk&logoColor=F5F1E8)
+![JavaScript](https://img.shields.io/badge/JavaScript-4E342E?style=for-the-badge&logo=javascript&logoColor=F5F1E8)
+![TypeScript](https://img.shields.io/badge/TypeScript-4E342E?style=for-the-badge&logo=typescript&logoColor=F5F1E8)
+![HTML5](https://img.shields.io/badge/HTML5-4E342E?style=for-the-badge&logo=html5&logoColor=F5F1E8)
 
-**Database**
-- MySQL
-- Supabase
-- SQLite
+![Next.js](https://img.shields.io/badge/Next.js-6F4E37?style=for-the-badge&logo=next.js&logoColor=F5F1E8)
+![Node.js](https://img.shields.io/badge/Node.js-6F4E37?style=for-the-badge&logo=node.js&logoColor=F5F1E8)
+![Express](https://img.shields.io/badge/Express-6F4E37?style=for-the-badge&logo=express&logoColor=F5F1E8)
+![React](https://img.shields.io/badge/React-6F4E37?style=for-the-badge&logo=react&logoColor=F5F1E8)
+![React Native](https://img.shields.io/badge/React_Native-6F4E37?style=for-the-badge&logo=react&logoColor=F5F1E8)
+![Expo](https://img.shields.io/badge/Expo-6F4E37?style=for-the-badge&logo=expo&logoColor=F5F1E8)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-6F4E37?style=for-the-badge&logo=tailwind-css&logoColor=F5F1E8)
+![JWT](https://img.shields.io/badge/JWT-6F4E37?style=for-the-badge&logo=jsonwebtokens&logoColor=F5F1E8)
 
-</td>
-</tr>
-</table>
+![MySQL](https://img.shields.io/badge/MySQL-A65E2E?style=for-the-badge&logo=mysql&logoColor=F5F1E8)
+![Supabase](https://img.shields.io/badge/Supabase-A65E2E?style=for-the-badge&logo=supabase&logoColor=F5F1E8)
+![SQLite](https://img.shields.io/badge/SQLite-A65E2E?style=for-the-badge&logo=sqlite&logoColor=F5F1E8)
+
+</div>
 
 <br>
 
@@ -57,16 +48,20 @@ Lagi fokus benerin fondasi: clean architecture, auth yang aman, dan query databa
 
 <br>
 
-## GitHub Stats
+## Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=Cip-s&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=false" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Cip-s&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=Cip-s&hide_border=true&include_all_commits=true&count_private=false&title_color=A65E2E&icon_color=C97A40&text_color=4E342E&bg_color=F5F1E8" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Cip-s&layout=compact&hide_border=true&include_all_commits=true&count_private=false&title_color=A65E2E&text_color=4E342E&bg_color=F5F1E8" />
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Cip-s&theme=noctis_minimus&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Cip-s&hide_border=true&background=F5F1E8&stroke=A65E2E&ring=C97A40&fire=A65E2E&currStreakNum=4E342E&sideNums=6F4E37&currStreakLabel=A65E2E&sideLabels=6F4E37&dates=8A7563" />
 </div>
+
+<br>
+
+> Mau ada "contribution snake" (ular yang gerak makan kotak commit) kayak yang di profile Artdi? Itu butuh setup GitHub Action di repo `<username>/<username>` — bilang aja, gue bikinin file workflow-nya sekalian.
 
 <br>
 
@@ -80,10 +75,4 @@ Lagi fokus benerin fondasi: clean architecture, auth yang aman, dan query databa
 
 </div>
 
-<br>
-
-<div align="center">
-
-*Thanks for stopping by ☕*
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A65E2E,50:6F4E37,100:2E1E12&height=100&section=footer" width="100%" />
