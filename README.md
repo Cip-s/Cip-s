@@ -1,177 +1,89 @@
 <div align="center">
 
-<img src="./assets/shop-game.gif" width="480" alt="pixel hero" />
+<img src="./asset/shop-game.gif" width="420" alt="pixel hero" />
 
-<br/>
+# Hi, I'm Syifa 👋
 
-# 🍂 Syifa Ardiansyah
-
-**Backend & Mobile Developer**
-
-*Code. Learn. Repeat.*
+**Backend & Mobile Developer** based in Indonesia
 
 </div>
 
-<br/>
+<br>
 
-<div align="center">
+Saya suka ngoding hal-hal yang jalan di belakang layar — API yang gak gampang jebol pas dipakein banyak orang, sama aplikasi mobile yang enak dipegang. Belajar React Native sambil ngoprek Express, biasanya sambil ditemenin kopi yang keburu dingin karena kelamaan mikirin bug.
 
-──────────────── 🍂 ────────────────
+Lagi fokus benerin fondasi: clean architecture, auth yang aman, dan query database yang gak bikin server ngos-ngosan.
 
-</div>
+<br>
 
-<br/>
-
-## 📖 About
-
-<div align="center">
-
-I build things on the backend and in your pocket — APIs that hold up under pressure and mobile apps that feel right. Most days start with coffee and end with one more commit than planned. Still learning, still shipping, always a little curious about what's next.
-
-</div>
-
-<br/>
-
-<div align="center">
-
-──────────────── 🍂 ────────────────
-
-</div>
-
-<br/>
-
-## 🧵 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![HTML5](https://img.shields.io/badge/HTML5-4E342E?style=for-the-badge&logo=html5&logoColor=F5F1E8)
-![Java](https://img.shields.io/badge/Java-4E342E?style=for-the-badge&logo=openjdk&logoColor=F5F1E8)
-![JavaScript](https://img.shields.io/badge/JavaScript-4E342E?style=for-the-badge&logo=javascript&logoColor=F5F1E8)
-![TypeScript](https://img.shields.io/badge/TypeScript-4E342E?style=for-the-badge&logo=typescript&logoColor=F5F1E8)
-
-<br/>
-
-**Frameworks**
-
-![Next JS](https://img.shields.io/badge/Next.js-6F4E37?style=for-the-badge&logo=next.js&logoColor=F5F1E8)
-![NodeJS](https://img.shields.io/badge/Node.js-6F4E37?style=for-the-badge&logo=node.js&logoColor=F5F1E8)
-![Express.js](https://img.shields.io/badge/Express.js-6F4E37?style=for-the-badge&logo=express&logoColor=F5F1E8)
-![React](https://img.shields.io/badge/React-6F4E37?style=for-the-badge&logo=react&logoColor=F5F1E8)
-![React Native](https://img.shields.io/badge/React_Native-6F4E37?style=for-the-badge&logo=react&logoColor=F5F1E8)
-![Expo](https://img.shields.io/badge/Expo-6F4E37?style=for-the-badge&logo=expo&logoColor=F5F1E8)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-6F4E37?style=for-the-badge&logo=tailwind-css&logoColor=F5F1E8)
-![JWT](https://img.shields.io/badge/JWT-6F4E37?style=for-the-badge&logo=jsonwebtokens&logoColor=F5F1E8)
-
-<br/>
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-A65E2E?style=for-the-badge&logo=mysql&logoColor=F5F1E8)
-![Supabase](https://img.shields.io/badge/Supabase-A65E2E?style=for-the-badge&logo=supabase&logoColor=F5F1E8)
-![SQLite](https://img.shields.io/badge/SQLite-A65E2E?style=for-the-badge&logo=sqlite&logoColor=F5F1E8)
-
-<br/>
-
-**Tools**
-
-![Nodemon](https://img.shields.io/badge/Nodemon-C97A40?style=for-the-badge&logo=nodemon&logoColor=F5F1E8)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-──────────────── 🍂 ────────────────
-
-</div>
-
-<br/>
-
-## 🗂️ Featured Project
-
-<div align="center">
+## Stack yang sering dipakai
 
 <table>
 <tr>
-<td align="center" width="560">
+<td valign="top" width="33%">
 
-### 🍁 Quantis
+**Bahasa**
+- Java
+- JavaScript / TypeScript
+- HTML
 
-*A focused, purpose-built project exploring clean architecture and thoughtful engineering.*
+</td>
+<td valign="top" width="33%">
 
-<a href="https://github.com/Cip-s/Quantis">
-<img src="https://img.shields.io/badge/View_Repository-4E342E?style=for-the-badge&logo=github&logoColor=F5F1E8" alt="View Quantis Repository" />
-</a>
+**Framework & Tools**
+- Node.js, Express
+- Next.js
+- React & React Native, Expo
+- TailwindCSS
+- JWT
+
+</td>
+<td valign="top" width="33%">
+
+**Database**
+- MySQL
+- Supabase
+- SQLite
 
 </td>
 </tr>
 </table>
 
+<br>
+
+## Project
+
+**[Quantis](https://github.com/Cip-s/Quantis)** — project eksplorasi clean architecture, fokus ke struktur kode yang rapi dan gampang di-maintain jangka panjang.
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=Cip-s&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=false" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Cip-s&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
-<br/>
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=Cip-s&theme=noctis_minimus&hide_border=true" />
+</div>
+
+<br>
+
+## Contact
 
 <div align="center">
 
-──────────────── 🍂 ────────────────
+[![Facebook](https://img.shields.io/badge/Facebook-4E342E?style=for-the-badge&logo=facebook&logoColor=F5F1E8)](https://facebook.com/GANTI_USERNAME_FACEBOOK)
+[![Instagram](https://img.shields.io/badge/Instagram-A65E2E?style=for-the-badge&logo=instagram&logoColor=F5F1E8)](https://instagram.com/GANTI_USERNAME_INSTAGRAM)
+[![TikTok](https://img.shields.io/badge/TikTok-6F4E37?style=for-the-badge&logo=tiktok&logoColor=F5F1E8)](https://tiktok.com/@GANTI_USERNAME_TIKTOK)
 
 </div>
 
-<br/>
-
-## 📊 Stats
+<br>
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=Cip-s&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=false)
-
-<br/>
-
-![](https://streak-stats.demolab.com/?user=Cip-s&theme=noctis_minimus&hide_border=true)
-
-<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Cip-s&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-──────────────── 🍂 ────────────────
-
-</div>
-
-<br/>
-
-## ☕ Find Me
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-6F4E37?style=for-the-badge&logo=facebook&logoColor=F5F1E8)](https://facebook.com/@Simulation)
-[![Instagram](https://img.shields.io/badge/Instagram-A65E2E?style=for-the-badge&logo=instagram&logoColor=F5F1E8)](https://instagram.com/@nyvrenov)
-[![TikTok](https://img.shields.io/badge/TikTok-4E342E?style=for-the-badge&logo=tiktok&logoColor=F5F1E8)](https://tiktok.com/@@Phue)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-──────────────── 🍂 ────────────────
-
-<br/>
-
-*The leaves fall so the branch can rest a while —*
-*and next spring, it grows back stronger.*
-*Same goes for the code.*
-
-<br/>
-
-**Thanks for stopping by ☕**
+*Thanks for stopping by ☕*
 
 </div>
