@@ -49,9 +49,9 @@ Something sweet.
 <img src="./asset/coffee-divider.svg" width="100%"/>
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-4E342E?style=for-the-badge&logo=facebook&logoColor=F5F1E8)](https://facebook.com/Simulation)
-[![Instagram](https://img.shields.io/badge/Instagram-A65E2E?style=for-the-badge&logo=instagram&logoColor=F5F1E8)](https://instagram.com/nyvrenov)
-[![TikTok](https://img.shields.io/badge/TikTok-6F4E37?style=for-the-badge&logo=tiktok&logoColor=F5F1E8)](https://tiktok.com/@Phue)
+[![Facebook](https://img.shields.io/badge/Facebook-4E342E?style=for-the-badge&logo=facebook&logoColor=F5F1E8)](https://facebook.com/@Simulation)
+[![Instagram](https://img.shields.io/badge/Instagram-A65E2E?style=for-the-badge&logo=instagram&logoColor=F5F1E8)](https://instagram.com/@nyvrenov)
+[![TikTok](https://img.shields.io/badge/TikTok-6F4E37?style=for-the-badge&logo=tiktok&logoColor=F5F1E8)](https://tiktok.com/@syifa_ardiansyah)
 
 </div>
 <img src="./asset/leaves-to-wave.svg" width="100%"/>
